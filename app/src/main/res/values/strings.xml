@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="edittext_website">http://developer.android.com</string>
+    <string name="button_website">Open Website</string>
+    <string name="edittext_loc">Seoul, Korea Selatan</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">Made by Salsabila Laily Rahma</string>
+    <string name="button_share">Share This Text</string>
+</resources>
